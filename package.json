@@ -10,7 +10,7 @@
     "io-ts": "^2.2.16",
     "loglevel": "^1.7.1",
     "loglevel-plugin-prefix": "^0.8.4",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "ts-node": "^9.1.1"
   },
   "devDependencies": {
